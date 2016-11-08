@@ -1,3 +1,6 @@
 [submodule "external/github.com/google/material-design-icons"]
 	path = external/github.com/google/material-design-icons
 	url = http://github.com/google/material-design-icons/
+[submodule "external/github.com/zhifeichen/RobotoWebfonts"]
+	path = external/github.com/zhifeichen/RobotoWebfonts
+	url = https://github.com/zhifeichen/RobotoWebfonts
