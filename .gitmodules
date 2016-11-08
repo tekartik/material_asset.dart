@@ -1,0 +1,3 @@
+[submodule "external/github.com/google/material-design-icons"]
+	path = external/github.com/google/material-design-icons
+	url = http://github.com/google/material-design-icons/

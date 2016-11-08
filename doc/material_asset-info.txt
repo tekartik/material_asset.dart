@@ -1,0 +1,1 @@
+git submodule add http://github.com/google/material-design-icons/ external/github.com/google/material-design-icons
