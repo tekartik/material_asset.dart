@@ -7,6 +7,14 @@
 
 @font-face {
     font-family: 'Roboto';
+    src: url('Roboto-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/*
+@font-face {
+    font-family: 'Roboto';
     src: url('RobotoWebfonts/Roboto-Italic-webfont.eot');
     src: url('RobotoWebfonts/Roboto-Italic-webfont.eot?#iefix') format('embedded-opentype'),
     url('RobotoWebfonts/Roboto-Italic-webfont.woff') format('woff'),
@@ -99,3 +107,4 @@
     font-weight: 300;
     font-style: italic;
 }
+*/
