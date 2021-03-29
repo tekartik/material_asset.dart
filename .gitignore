@@ -16,3 +16,4 @@ pubspec.lock
 .packages
 
 tmp/
+/.dart_tool/
