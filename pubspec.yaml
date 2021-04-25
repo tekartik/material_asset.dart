@@ -1,5 +1,5 @@
 name: tekartik_material_asset
-version: 0.3.1
+version: 0.3.2
 description: Material design assets
 author: Alexandre Roux <alex@tekartik.com>
 environment:
@@ -7,3 +7,9 @@ environment:
 dependencies:
 dev_dependencies:
   test: any
+  dev_test:
+  tekartik_common_utils:
+    git:
+      url: git://github.com/tekartik/common_utils.dart
+      ref: null_safety
+    version: '>=0.10.2+1'
