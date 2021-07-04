@@ -1,7 +1,7 @@
 name: tekartik_material_asset
 version: 0.3.3
 description: Material design assets
-author: Alexandre Roux <alex@tekartik.com>
+
 environment:
   sdk: '>=2.12.0-0 <3.0.0'
 dependencies:
