@@ -3,7 +3,7 @@ version: 0.3.3
 description: Material design assets
 
 environment:
-  sdk: ^3.4.0
+  sdk: ^3.5.0
 dependencies:
 dev_dependencies:
   test: any
