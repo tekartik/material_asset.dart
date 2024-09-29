@@ -1,3 +1,3 @@
-library tekartik_material_asset;
+library;
 
 // placeholder
