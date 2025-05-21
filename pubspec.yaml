@@ -3,11 +3,11 @@ version: 0.3.3
 description: Material design assets
 
 environment:
-  sdk: ^3.5.0
+  sdk: ^3.7.0
 dependencies:
 dev_dependencies:
-  test: any
-  dev_build:
+  test: ">=1.24.0"
+  dev_build: ">=1.1.2"
   tekartik_common_utils:
     git:
       url: https://github.com/tekartik/common_utils.dart
