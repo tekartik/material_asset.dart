@@ -12,5 +12,4 @@ dependencies:
   tekartik_material_asset:
     git:
       url: https://github.com/tekartik/material_asset.dart
-      ref: dart3a
 ```
